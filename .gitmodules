@@ -1,0 +1,3 @@
+[submodule "packages/swiftmailer"]
+	path = packages/swiftmailer
+	url = https://github.com/taylorotwell/laravel-swiftmailer.git
